@@ -1,3 +1,5 @@
+Deployed to [Heroku](https://recipefinder035872.herokuapp.com/).
+
 ## Assignment for Module #3: Recipe Finder
 
 The overall goal of this assignment is to implement a Rails application using model,
